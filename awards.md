@@ -45,6 +45,10 @@ Also see Wikipedia's [list of comic awards](https://en.wikipedia.org/wiki/List_o
 - jury decision
 - Canadians only (can be living abroad)
 
+### [John Locher Memorial Award](http://locheraward.org/)
+- full-time student cartoonists from Canada, the United States and Mexico
+- open submissions
+
 ### [Russ Manning Award](http://www.comic-con.org/awards/russ-manning)
 - for new comic book artists
 - closed nomination/voting
