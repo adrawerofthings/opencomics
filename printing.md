@@ -39,6 +39,7 @@
 
 - [Carolyn Nowak and Carey Pietsch recommend RA Comics Direct](http://caseyboots.tumblr.com/post/140199034632/i-love-your-short-comics-and-your-colors-and) (2016)
 - [An anthology that Kevin Jay Stanton contributed to used Print Ninja](http://kevinjaystanton.tumblr.com/post/131756949793/pepperbreathzine-pyritepress-printninja-just) (2015)
+- Indepedent Comic Creator Resource's tips for [offset printers](http://indie-comic-resource.tumblr.com/post/125090842546/offset-printers) and [digital printers](http://indie-comic-resource.tumblr.com/post/125090831531/digital-printers) (2015)
 - [Discusson on Tapastic](http://forums.tapastic.com/t/print-on-demand-options/621/5), many recommendations for Greko/Comix Well Spring (2014)
 - - [Bo Bigelow compares Lulu and CreateSpace](https://web.archive.org/web/20150422023614/http://www.bobigelow.com/2013/04/how-i-self-published-my-graphic-novel.html), the latter wins (2013)
 - [Alan Evans reviews four POD services](http://chrisoatley.com/how-do-i-pick-the-print-on-demand-publisher-that-is-right-for-my-ccomic/), be sure to read the comments! (2011)
