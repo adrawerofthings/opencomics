@@ -22,6 +22,7 @@
 
 ### General POD services
 
+- [Ex Why Zed](http://www.exwhyzed.co.uk/products/comic-graphic-novel-printing/) – small, UK-based shopw with quite a comprehensive set of guides for comics printing
 - [Blurb](http://www.blurb.com/)
 - [CreateSpace](https://www.createspace.com/) - comics people have used
 - [Ingram Spark](http://www.ingramspark.com/)
