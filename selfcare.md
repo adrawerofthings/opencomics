@@ -4,7 +4,7 @@ TL;DR – if it hurts, stop, stretch, have a cup of tea, and don't go back to wo
 
 - Highly-lauded-on-Tumblr video: [exercises for tendinitis (tendonitis) and carpal tunnel (cps) ](http://blue-ten.tumblr.com/post/118755789060/superwholockthecomic-squigglydigg)
 - Artists-Help's [carpal tunnel syndrome exercises](http://artists-help.tumblr.com/post/32006324726/carpal-tunnel-syndrome-exercises)
-- Slightly more-involved [Carpel Tunnel Relief Exercises](https://www.youtube.com/watch?v=BHfKutz21do) from Z-Health
+- Slightly more-involved [carpal tunnel relief exercises](https://www.youtube.com/watch?v=BHfKutz21do) from Z-Health
 - Sarah Glidden's [neck stretch program](http://sarahglidden.tumblr.com/post/129173803760/made-myself-a-neck-stretch-program-to-try-to)
 - Listhack (deprecated Tumblr)'s [back pain hacks](http://jasonli.tumblr.com/post/124076348971/nevlogeos-deepseastations-littlepandabear)
 - Dian M.Z.'s [tips for taking care of your wrist and nails](http://dianmz.tumblr.com/post/134363466087/yuumei-art-ive-been-posting-some-video)
