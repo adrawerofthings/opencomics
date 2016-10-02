@@ -25,4 +25,5 @@ Also see Jason Thibault's [Definitive List of Comic Publisher Submissions Guidel
 - [Nobrow Press](http://nobrow.net/submissions/) - open submissions via email
 - [Oni Press](http://onipress.tumblr.com/FAQ) - not open to submissions
 - [SelfMadeHero](http://www.selfmadehero.com/submissions.php) – open submissions via email
+- [Soaring Penguin Press](http://soaringpenguinpress.com/submissions) - open to submissions via email or post
 - [Top Shelf](http://www.topshelfcomix.com/contact/submissions) – open submissions via postal mail
