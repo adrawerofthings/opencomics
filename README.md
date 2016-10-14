@@ -7,6 +7,8 @@ It's an open secret in the comics world that the path to becoming a "successful"
 
 This Open Comics project is about making that path a little bit easier, by pooling our knowledge – all the little tips and tricks that we picked up along the way – together into one public resource. Think of it as the more permanent, text-heavy version of this wonderful [Opportunities for Cartoonists tumblr](http://comicops.tumblr.com/).
 
+Also be sure to check out The Beat's incredible list of resources: [How To Get Into Comics and Survive Once You’re There](http://www.comicsbeat.com/resources/information-on-how-to-get-into-comics-and-survive-once-youre-there/).
+
 ## How this works (why GitHub)
 
 We're putting this project on Github because it's the easiest place on the internet today to write collaboratively and publicly. (Wikis have too much overhead and too high a barrier to entry.)

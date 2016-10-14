@@ -2,7 +2,11 @@
 
 A directory of comics conventions, exhibitions and festivals that are friendly for comics and/or independent creators. A work in progress. Also see [Wikipedia's list](https://en.wikipedia.org/wiki/List_of_comic_book_conventions).
 
-While you're here, read theblerdgurl's guide on making money at cons: [25 reasons why you don't make any money at comic cons](http://theblerdgurl.tumblr.com/post/121104481939/25-reasons-why-you-dont-make-any-money-at-comic).
+While you're here:
+
+- Read theblerdgurl's guide on making money at cons [25 reasons why you don't make any money at comic cons](http://theblerdgurl.tumblr.com/post/121104481939/25-reasons-why-you-dont-make-any-money-at-comic) and/or this [giant Facebook thread started by Zander Cannon](https://www.facebook.com/zandercannon/posts/10151789475817465?stream_ref=1) about it.
+- Super handy: Dylan Meconis' [basic conventional table setup illustration](http://dylanmeconis.tumblr.com/post/143016919369/after-exhibiting-at-emerald-city-comicon-i-came).
+- Too far from a con/can't get in? Read Frank Santoro's [guide to starting your own comics club](http://www.tcj.com/comics-club/).
 
 ## North America
 
