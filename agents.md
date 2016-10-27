@@ -34,5 +34,5 @@ Also: look up the agent's company on [Preditors & Editor's Agent & Attorney List
 
 ### Graphic novel agent directories
 
+* Niki Smith's list of [Literary Agents Who Represent Graphic Novels](http://niki-smith.com/about/graphic-novel-agents/) – last updated October 2016
 * Writer's Digest's list of [Graphic Novel Agents](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/graphic-novel-agents) – last updated 10 November 2015
-* Niki Smith's list of [Literary Agents Who Represent Graphic Novels](http://niki-smith.com/about/graphic-novel-agents/) – last updated 28 April 2014
