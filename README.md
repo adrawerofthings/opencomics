@@ -3,9 +3,9 @@
 
 ## Background & mission
 
-It's an open secret in the comics world that the path to becoming a "successful" cartoonist is a rough one. And by success, folks in the industry usually mean the ability to work as a full-time cartoonist *whilst living cheaply*. For more context on this treacherous journey, please see C. Spike Trotman's [This Is Everything I Know: A 24 Hour Comic About Comics](http://spikedrewthis.tumblr.com/post/64136324548/this-is-everything-i-know-a-24-hour-comic-about).
+It's an open secret in the comics world that the path to becoming a "successful" cartoonist is a rough one. And by success, folks in the industry usually mean the ability to work as a full-time cartoonist *whilst living cheaply*. For more context on this treacherous journey, please see C. Spike Trotman's [This Is Everything I Know: A 24 Hour Comic About Comics](http://spikedrewthis.tumblr.com/post/64136324548/this-is-everything-i-know-a-24-hour-comic-about) or watch [Lucy Bellwood's XOXO 2016 talk](https://www.youtube.com/watch?v=pLveriJBHeU).
 
-This Open Comics project is about making that path a little bit easier, by pooling our knowledge – all the little tips and tricks that we picked up along the way – together into one public resource. Think of it as the more permanent, text-heavy version of this wonderful [Opportunities for Cartoonists tumblr](http://comicops.tumblr.com/).
+Open Comics (our project here) is about making that path a little bit easier, by pooling our knowledge – all the little tips and tricks that we picked up along the way – together into one public resource. Think of it as the more permanent, text-heavy version of the wonderful [Opportunities for Cartoonists tumblr](http://comicops.tumblr.com/).
 
 Also be sure to check out The Beat's incredible list of resources: [How To Get Into Comics and Survive Once You’re There](http://www.comicsbeat.com/resources/information-on-how-to-get-into-comics-and-survive-once-youre-there/).
 
