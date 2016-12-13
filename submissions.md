@@ -2,7 +2,7 @@
 
 Submissions don't always work. As Lucy Bellwood said on [this episode of the Make It Then Tell Everybody podcast](http://makeitthentelleverybody.com/2016/03/lucy-bellwood/): "You have to be your own small business, kind of, or your own social media empire before a publisher contacts you... I didn't get an agent, I wasn't approached by serious publishers until I had raised 40,000 dollars on Kickstarter to print a book. And then people said, okay, we've had my eye on this person, we know she's someone we want to work with. But we're not going to ask her until we know she can deliver the goods."
 
-Also see Jason Thibault's [Definitive List of Comic Publisher Submissions Guidelines](http://jasonthibault.com/definitive-list-comic-publisher-submission-guidelines/).
+Also see Jason Thibault's **[Definitive List of Comic Publisher Submissions Guidelines](http://jasonthibault.com/definitive-list-comic-publisher-submission-guidelines/)** (last updated on December 5, 2016).
 
 ## Comics Publishers
 
