@@ -3,6 +3,8 @@
 ## Comics specific
 
 - [La Maison des Auteurs](http://english.citebd.org/spip.php?article23) (mentoring + showcasing + almost-zero rent) – read Sarah Glidden's [FAQ about it](http://sarahglidden.com/f-a-q-s-about-the-maison-des-auteurs-part-1/)
+- Melanie Gillman's incredible list of [Grants, Fellowships, and Residencies for Cartoonists!](http://pigeonbits.tumblr.com/post/148910645278/grants-fellowships-and-residencies-for)
+
 
 ## For all artist types
 
