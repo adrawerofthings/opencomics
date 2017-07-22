@@ -7,6 +7,7 @@ While you're here:
 - Read theblerdgurl's guide on making money at cons [25 reasons why you don't make any money at comic cons](http://theblerdgurl.tumblr.com/post/121104481939/25-reasons-why-you-dont-make-any-money-at-comic) and/or this [giant Facebook thread started by Zander Cannon](https://www.facebook.com/zandercannon/posts/10151789475817465?stream_ref=1) about it.
 - Super handy: Dylan Meconis' [basic conventional table setup illustration](http://dylanmeconis.tumblr.com/post/143016919369/after-exhibiting-at-emerald-city-comicon-i-came).
 - Too far from a con/can't get in? Read Frank Santoro's [guide to starting your own comics club](http://www.tcj.com/comics-club/).
+- Want to get into the gritty detail? Check out [George Rohac](http://grohac.com/)'s [Convention Travel google doc](https://docs.google.com/document/d/1cYJ_dmaJL_BtPDR8_8yA0Kfi72ImTGQaOvPwEN3clVE/edit).
 
 ## North America
 
