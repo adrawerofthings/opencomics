@@ -30,14 +30,26 @@
 
 ## Other printers
 
+- [Keness](http://keness.com/)
+  - minimum order: 100
+  - highly recommended by comics folks
+
+- [Smartpress](https://smartpress.com/)
+  - minimum order: 10
+  - printshop targeting "creative professionals"
+  - great website and recommended by a few comics folks
+
 - [Print Ninja](http://www.printninja.com/printing-products/graphic-novel-printing)
- - minimum order: 1000
- – has special comics section of services, comics people have used
+  - minimum order: 1000
+  – has special comics section of services
+  - warning: despite their claims, Print Ninja is a broker service for printers
+  - comics people have used: some people were happy with what they got, some were not
 
 ## Appendix
 
 ### Articles, reviews, testimonials
 
+- [Rhiannon (a prepress technician)'s warning about Print Ninja](https://twitter.com/charibdys/status/958013272812273669) and [Andrea's implied warning](https://twitter.com/AndreaDemonakos/status/956970122463162368) on Twitter; Keness is recommended in its place (2018)
 - [Carolyn Nowak and Carey Pietsch recommend RA Comics Direct](http://caseyboots.tumblr.com/post/140199034632/i-love-your-short-comics-and-your-colors-and) (2016)
 - [An anthology that Kevin Jay Stanton contributed to used Print Ninja](http://kevinjaystanton.tumblr.com/post/131756949793/pepperbreathzine-pyritepress-printninja-just) (2015)
 - Indepedent Comic Creator Resource's tips for [offset printers](http://indie-comic-resource.tumblr.com/post/125090842546/offset-printers) and [digital printers](http://indie-comic-resource.tumblr.com/post/125090831531/digital-printers) (2015)
