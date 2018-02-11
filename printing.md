@@ -12,6 +12,11 @@
 - no minimum order
 - accounts of generally high quality, helpful walkthrough for first-timers, but also slow-to-respond customer service ([source](http://chrisoatley.com/how-do-i-pick-the-print-on-demand-publisher-that-is-right-for-my-ccomic/))
 
+#### [Comic Printing UK](http://comicprintinguk.com/)
+
+- used by [ShortBox](http://www.shortbox.co.uk/)
+- helpful website
+
 #### [Litho Ninja](https://lithoninja.com/)
 
 - minimum order: 25
