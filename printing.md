@@ -54,6 +54,7 @@
 ### Articles, reviews, testimonials
 
 - [Rhiannon (a prepress technician)'s warning about Print Ninja](https://twitter.com/charibdys/status/958013272812273669) and [Andrea's implied warning](https://twitter.com/AndreaDemonakos/status/956970122463162368) on Twitter; Keness is recommended in its place (2018)
+- [How I Printed My Comic Book](http://notebook.hongkonggong.com/2017/09/25/how-i-printed-my-comic-book/) describes an end-to-end process of finding a printer, getting a quote, tweaking the colors and receiving the final shipment (2017)
 - [Carolyn Nowak and Carey Pietsch recommend RA Comics Direct](http://caseyboots.tumblr.com/post/140199034632/i-love-your-short-comics-and-your-colors-and) (2016)
 - [An anthology that Kevin Jay Stanton contributed to used Print Ninja](http://kevinjaystanton.tumblr.com/post/131756949793/pepperbreathzine-pyritepress-printninja-just) (2015)
 - Indepedent Comic Creator Resource's tips for [offset printers](http://indie-comic-resource.tumblr.com/post/125090842546/offset-printers) and [digital printers](http://indie-comic-resource.tumblr.com/post/125090831531/digital-printers) (2015)
