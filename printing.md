@@ -12,11 +12,6 @@
 - no minimum order
 - accounts of generally high quality, helpful walkthrough for first-timers, but also slow-to-respond customer service ([source](http://chrisoatley.com/how-do-i-pick-the-print-on-demand-publisher-that-is-right-for-my-ccomic/))
 
-#### [Comic Printing UK](http://comicprintinguk.com/)
-
-- used by [ShortBox](http://www.shortbox.co.uk/)
-- helpful website
-
 #### [Litho Ninja](https://lithoninja.com/)
 
 - minimum order: 25
@@ -43,6 +38,10 @@
   - minimum order: 10
   - printshop targeting "creative professionals"
   - great website and recommended by a few comics folks
+
+- [Comic Printing UK](http://comicprintinguk.com/)
+  - used by [ShortBox](http://www.shortbox.co.uk/)
+  - helpful website
 
 - [Print Ninja](http://www.printninja.com/printing-products/graphic-novel-printing)
   - minimum order: 1000
