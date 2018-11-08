@@ -1,6 +1,6 @@
 # Conventions, exhibitions & festivals
 
-A directory of comics conventions, exhibitions and festivals that are friendly for comics and/or independent creators. A work in progress. Also see [Wikipedia's list](https://en.wikipedia.org/wiki/List_of_comic_book_conventions).
+A directory of comics conventions, exhibitions and festivals that are friendly for comics and/or independent creators. A work in progress. Also see [Creator Resource's Best Conventions Around the World](http://www.creatorresource.com/the-best-conventions-around-the-world/) and [Wikipedia's list](https://en.wikipedia.org/wiki/List_of_comic_book_conventions).
 
 While you're here:
 

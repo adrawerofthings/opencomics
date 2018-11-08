@@ -21,6 +21,7 @@ Want to write and edit it directly? **Fork this project** and then make a pull
 
 - [Agents](agents.md)
 - [Awards](awards.md)
+- [Distribution](distribution.md)
 - [Grants](grants.md)
 - [Merch making services](merch.md)
 - [Printing services](printing.md)

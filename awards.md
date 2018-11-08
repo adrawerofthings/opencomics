@@ -13,6 +13,10 @@ Also see Wikipedia's [list of comic awards](https://en.wikipedia.org/wiki/List_o
 - open nominations
 - judges pick winners
 
+### [The Dwayne McDuffie Award for Kids' Comics](https://www.facebook.com/The-Dwayne-McDuffie-Award-for-Kids-Comics-1735825173374778/)
+- seems to be part of the [Ann Arbor Comic Arts Festival](http://a2caf.com/kidscomicsawards)
+- kids vote on final winner
+
 ### [Eisner Awards](http://www.comic-con.org/awards/eisner-awards-current-info)
 - creators/publishers can submit
 - judges create final list of nominees
