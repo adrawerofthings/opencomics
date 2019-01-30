@@ -13,3 +13,4 @@
 - [ResArtis](http://www.resartis.org/): worldwide network of artist residencies
 - [Skowhegan](http://www.skowheganart.org/) "is an intensive nine-week summer residency program for emerging visual artists"
 - [Yaddo](http://yaddo.org/): a retreat for artists
+- See the Artwork Archive's [Complete Guide to 2019 Artist Grants & Opportunities ](https://www.artworkarchive.com/blog/complete-guide-to-2019-artist-grants-opportunities)
