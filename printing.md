@@ -53,6 +53,7 @@
 
 ### Articles, reviews, testimonials
 
+- Creator Resource has a great section of [articles by Comic Printing UK](http://www.creatorresource.com/author/comicprintinguk/) on working with a printer.
 - [Rhiannon (a prepress technician)'s warning about Print Ninja](https://twitter.com/charibdys/status/958013272812273669) and [Andrea's implied warning](https://twitter.com/AndreaDemonakos/status/956970122463162368) on Twitter; Keness is recommended in its place (2018)
 - [How I Printed My Comic Book](http://notebook.hongkonggong.com/2017/09/25/how-i-printed-my-comic-book/) describes an end-to-end process of finding a printer, getting a quote, tweaking the colors and receiving the final shipment (2017)
 - [Carolyn Nowak and Carey Pietsch recommend RA Comics Direct](http://caseyboots.tumblr.com/post/140199034632/i-love-your-short-comics-and-your-colors-and) (2016)

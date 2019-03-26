@@ -32,8 +32,12 @@ There are plenty of horror stories around literary agents: *research thoroughly*
 
 Also: look up the agent's company on [Preditors & Editor's Agent & Attorney Listing](http://pred-ed.com/peala.ht), to make sure it's not flagged in red.
 
+### Querying an agent
+
+See Maria Vicente's [A Literary Agent’s Guide to Querying Your Graphic Novel](http://www.creatorresource.com/a-literary-agents-guide-to-querying-your-graphic-novel/).
+
 ### Graphic novel agent directories
 
+* Niki Smith's list of [Literary Agents Who Represent Graphic Novels](http://niki-smith.com/about/graphic-novel-agents/) – last updated March 2019
 * [Literary Agents for Illustrators](https://illustratoragents.wordpress.com/) – last updated 10 December 2016
 * Writer's Digest's list of [Graphic Novel Agents](http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/graphic-novel-agents) – last updated 14 November 2016
-* Niki Smith's list of [Literary Agents Who Represent Graphic Novels](http://niki-smith.com/about/graphic-novel-agents/) – last updated October 2016
